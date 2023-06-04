@@ -1,0 +1,14 @@
+@import "../../../data/styles.css";
+
+.footer {
+	display: flex;
+	padding-top: 25px;
+	margin-top: 50px;
+	padding-bottom: 25px;
+	flex-direction: row-reverse;
+}
+
+.footer-notes-text {
+	color: var(--tertiary-color);
+	font-size: 14px;
+}
